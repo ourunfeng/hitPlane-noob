@@ -1,0 +1,10 @@
+E:\VS项目\Form打飞机\Form打飞机\bin\Debug\Form打飞机.exe.config
+E:\VS项目\Form打飞机\Form打飞机\bin\Debug\Form打飞机.exe
+E:\VS项目\Form打飞机\Form打飞机\bin\Debug\Form打飞机.pdb
+E:\VS项目\Form打飞机\Form打飞机\obj\Debug\Form打飞机.csprojAssemblyReference.cache
+E:\VS项目\Form打飞机\Form打飞机\obj\Debug\Form打飞机.Form1.resources
+E:\VS项目\Form打飞机\Form打飞机\obj\Debug\Form打飞机.Properties.Resources.resources
+E:\VS项目\Form打飞机\Form打飞机\obj\Debug\Form打飞机.csproj.GenerateResource.cache
+E:\VS项目\Form打飞机\Form打飞机\obj\Debug\Form打飞机.csproj.CoreCompileInputs.cache
+E:\VS项目\Form打飞机\Form打飞机\obj\Debug\Form打飞机.exe
+E:\VS项目\Form打飞机\Form打飞机\obj\Debug\Form打飞机.pdb
