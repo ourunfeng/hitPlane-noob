@@ -12,10 +12,11 @@ namespace Form打飞机
 {
     public partial class Form1 : Form
     {
-
+        
         
         public Form1()
         {
+
             InitializeComponent();
         }
 

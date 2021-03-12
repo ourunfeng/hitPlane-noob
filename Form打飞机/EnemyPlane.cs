@@ -9,6 +9,7 @@ using Form打飞机.Properties;
 
 namespace Form打飞机
 {
+
    class EnemyPlane : PlaneFather
     {
         private static Image Enemy1 = Resources.Enemy1;
@@ -48,10 +49,15 @@ namespace Form打飞机
 
         }
         //Random r = new Random((int)DateTime.Now.Ticks);
-        Random r = new Random();
+        
+        Random r = new Random(unchecked((int)DateTime.Now.Ticks));
         public override void MoveToBorder()
         {
-            Random k = new Random();
+            
+
+            string guid = System.Guid.NewGuid().ToString();
+            Random k = new Random(guid.GetHashCode());
+            //Random k = new Random();
 
             //坐标修正
             if (this.y>= 850-this.Height)
@@ -159,9 +165,9 @@ namespace Form打飞机
             switch (PlaneType)
             {
                 case 1:
-                    return 4;
+                    return 2;
                 case 2:
-                    return 7;
+                    return 5;
                 case 3:
                     return 2;
             }
